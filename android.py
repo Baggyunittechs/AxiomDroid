@@ -517,7 +517,7 @@ def wireless():
 
         if "y" in unplug:
             ress1 = results1.stdout.split()
-            ipadd = ress1[-1]
+            ipadd = ress1[8]
             print(results1.stdout, "\n")
             print(Fore.YELLOW + f"[+]. device ip address '{ipadd}' has been captured ....")
 
