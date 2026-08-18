@@ -1,4 +1,4 @@
-# 🤖 AXIOMDROID V1.0
+#  AXIOMDROID V1.0
 ![P-BOT Screenshot](img.png)
 
 ---
